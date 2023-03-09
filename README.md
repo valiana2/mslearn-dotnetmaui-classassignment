@@ -1,5 +1,4 @@
 # mslearn-dotnetmaui-classassignment
-This repository contains the class assignments of the 09/03/23 Framework programming class. 
-The folder exercice1 contains the folders SimpleMVVM, InteractiveMVVM and CommandingMVVM.
-In each folder you will find a .docx containing the screenshots of the realization of the exercises.
-The folder exercise2 contains the folder BlazorHybridApp and its .docx.
+This repository contains the class assignment of the 09/03/23 Framework programming class. 
+Unfortunetly, I failed to add the solutions of the exercises to this git because they were too voluminous.
+Instead, I put .docx for each of the exercises with screenshots of the results.
